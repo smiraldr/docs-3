@@ -117,6 +117,7 @@
                       "openhands/usage/llms/azure-llms",
                       "openhands/usage/llms/google-llms",
                       "openhands/usage/llms/groq",
+                      "openhands/usage/llms/io-intelligence",
                       "openhands/usage/llms/local-llms",
                       "openhands/usage/llms/litellm-proxy",
                       "openhands/usage/llms/moonshot",

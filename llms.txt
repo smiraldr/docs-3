@@ -189,6 +189,7 @@ from the OpenHands Software Agent SDK.
 - [Tutorial Library](https://docs.openhands.dev/openhands/usage/get-started/tutorials.md): Centralized hub for OpenHands tutorials and examples
 - [Use Cases Overview](https://docs.openhands.dev/openhands/usage/use-cases/overview.md): Explore how OpenHands can help with common software development challenges
 - [Use Docker with Agent Canvas](https://docs.openhands.dev/openhands/usage/agent-canvas/backend-setup/docker.md): Run Agent Canvas with Docker for a sandboxed backend and mounted project workspace.
+- [Use IO Intelligence with OpenHands](https://docs.openhands.dev/openhands/usage/llms/io-intelligence.md): Configure an IO Intelligence model and API key in Agent Canvas or OpenHands.
 - [VM / Self-Hosted Installation](https://docs.openhands.dev/openhands/usage/agent-canvas/backend-setup/vm.md): Install Agent Canvas on a VM as a backend-only service or full self-hosted Canvas.
 - [Vulnerability Remediation](https://docs.openhands.dev/openhands/usage/use-cases/vulnerability-remediation.md): Using OpenHands to identify and fix security vulnerabilities in your codebase
 - [WebSocket Connection](https://docs.openhands.dev/openhands/usage/developers/websocket-connection.md)
