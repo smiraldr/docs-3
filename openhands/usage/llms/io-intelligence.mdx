@@ -3,7 +3,7 @@ title: Use IO Intelligence with OpenHands
 description: Configure an IO Intelligence model and API key in Agent Canvas or OpenHands.
 ---
 
-Use IO Intelligence when you have an io.net API key and want to access a model from its [model catalog](https://io.net/docs/reference/ai-models/create-chat-completion).
+Use IO Intelligence when you have an io.net API key and want to access a model from its [model catalog](https://io.net/docs/reference/ai-models/get-models-list).
 
 ## Configure Agent Canvas
 
@@ -12,11 +12,11 @@ Use IO Intelligence when you have an io.net API key and want to access a model f
 3. Set the following:
    - `Custom Model` to the prefix `openai/` + the model ID (e.g. `openai/meta-llama/Llama-3.3-70B-Instruct`)
    - `Base URL` to `https://api.intelligence.io.solutions/api/v1`
-   - `API key` to your IO Intelligence API key
+   - `API Key` to your IO Intelligence API key
 4. Save the profile.
 5. Start a new conversation and send a short message to verify the model responds.
 
-IO Intelligence model IDs are Hugging Face-style `org/name` identifiers, for example `deepseek-ai/DeepSeek-R1-0528` or `Qwen/Qwen3-235B-A22B-Instruct`. Copy the exact ID from the [model catalog](https://io.net/docs/reference/ai-models/create-chat-completion); model availability can change, so do not rely on a previously saved identifier without checking it.
+IO Intelligence model IDs are Hugging Face-style `org/name` identifiers, for example `deepseek-ai/DeepSeek-R1-0528` or `Qwen/Qwen3-Next-80B-A3B-Instruct`. Copy the exact ID from the [model catalog](https://io.net/docs/reference/ai-models/get-models-list); model availability can change, so do not rely on a previously saved identifier without checking it.
 
 ## Fix Common Problems
 
